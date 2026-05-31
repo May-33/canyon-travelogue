@@ -21,7 +21,8 @@
 
 ## 在线体验
 
-🔗 [https://pagedrop.dev/s/ZPA8mZAd](https://pagedrop.dev/s/ZPA8mZAd)
+🔗 [https://may-33.github.io/canyon-travelogue/](https://may-33.github.io/canyon-travelogue/)（海外）
+🔗 [https://canyon-travelogue.vercel.app](https://canyon-travelogue.vercel.app)（国内推荐，部署后生效）
 
 ## 本地运行
 
