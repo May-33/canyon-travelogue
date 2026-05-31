@@ -1,0 +1,16 @@
+# Temporary files
+qr_base64.txt
+qr_b64_only.txt
+
+# WorkBuddy internal
+.workbuddy/
+.codebuddy/
+
+# Screenshots
+*.png
+*.jpg
+!favicon.ico
+
+# OS
+.DS_Store
+Thumbs.db
